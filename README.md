@@ -41,7 +41,8 @@ print("{:.2f}".format(distance))
 
 ### OUTPUT:
 
-![Screenshot (1)](https://user-images.githubusercontent.com/119476243/229766816-8f5968bf-fbe7-418b-95df-bf79ff4f5745.png)
+![1c python prem1](https://user-images.githubusercontent.com/119476243/230727960-a5ad9c52-c2b4-4c92-a989-8ead2547de74.png)
 
 ### RESULT:
+
 Thus the distance of the two points is sucessfully executed and displayed.
